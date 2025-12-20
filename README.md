@@ -6,9 +6,7 @@
 ⚽ I love sports and running <br/>
 ⚡ Fun fact: I am a Naval Diver frogman of the sea HOOYA! <br/>
 📫 Email : sun-weihao@hotmail.com <br/>
-🔗 <a href="https://www.linkedin.com/in/sun-wei-hao">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="18" />
-</a>
+🔗 [LinkedIn](https://www.linkedin.com/in/sun-wei-hao)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/weihaowh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sun-wei-hao) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sun-weihao@hotmail.com) 
