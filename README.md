@@ -2,7 +2,7 @@
 
 🧠 Computer Science student at Singapore Institute of Technology / Digipen <br/>
 🌱 Inspiring Software Engineer <br/>
-🤖 Passion in robotics <br/>
+🤖 Passion in robotics and simulation <br/>
 ⚽ I love sports and running <br/>
 ⚡ Fun fact: I am a Naval Diver frogman of the sea HOOYA! <br/>
 📫 Email : sun-weihao@hotmail.com <br/>
