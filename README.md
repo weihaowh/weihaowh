@@ -1,10 +1,6 @@
 ## Hi, I'm Wei Hao
 
-🧠 Computer Science student at Singapore Institute of Technology / Digipen <br/>
-🌱 Inspiring Software Engineer <br/>
-🤖 Passion in robotics and simulation <br/>
-⚽ I love sports and running <br/>
-⚡ Fun fact: I am a Naval Diver frogman of the sea HOOYA! <br/>
+🌱 Software/Simulation Engineer
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=google-chrome&logoColor=white)](https://weihaowh.github.io/Portfolio/)
